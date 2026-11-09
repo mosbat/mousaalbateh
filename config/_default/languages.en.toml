@@ -1,10 +1,10 @@
 disabled = false
 weight = 1
 title = "Blowfish"
+locale = "en"
+label = "English"
 
 [params]
-  locale = "en"
-  label = "English"
   displayName = "EN"
   isoCode = "en"
   rtl = false
