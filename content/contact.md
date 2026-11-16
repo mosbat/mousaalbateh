@@ -23,3 +23,8 @@ blog.segment682@passfwd.com
     type="video/mp4">
   Your browser does not support HTML video.
 </video>
+
+{{< hls-player
+    src="https://media.mousaalbateh.com/sample/demo/master.m3u8"
+    title= "demo"
+>}}
