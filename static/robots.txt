@@ -1,0 +1,10 @@
+# Allow Google, Bing, Yandex, and Baidu search crawlers.
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: YandexBot
+User-agent: Baiduspider
+Allow: /
+
+# Disallow all other crawlers.
+User-agent: *
+Disallow: /
