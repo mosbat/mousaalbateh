@@ -1,6 +1,6 @@
 disabled = false
 weight = 1
-title = "Home"
+title = "Mousa Al Bateh - Blog"
 locale = "en"
 label = "English"
 
@@ -9,9 +9,17 @@ displayName = "EN"
 isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
+description = "Personal blog of Mousa Al Bateh"
+copyright = ""
 
 [[params.author.links]]
 email = "blog.segment682@passfwd.com"
+
+[[params.author.links]]
+github = "https://github.com/mosbat"
+
+[[params.author.links]]
+leetcode = "https://leetcode.com/u/mosbat/"
 
 ["params.author"]
 name = "Mousa Al Bateh"
