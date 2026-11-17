@@ -1,0 +1,20 @@
+# Hugo build output
+/public/
+
+# Hugo-generated resources (processed images, CSS, etc.)
+/resources/_gen/
+
+# Temporary Hugo build lock
+/.hugo_build.lock
+
+# Node dependencies, if you use npm
+/node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local environment files / secrets
+.env
+.env.*
+!.env.example
