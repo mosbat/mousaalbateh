@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Business on Mousa Al Bateh - Blog</title>
+    <link>http://localhost:1313/tags/business/</link>
+    <description>Recent content in Business on Mousa Al Bateh - Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>blog.segment682@passfwd.com (Mousa Al Bateh)</managingEditor>
+    <webMaster>blog.segment682@passfwd.com (Mousa Al Bateh)</webMaster>
+    <copyright>© 2026 Mousa Al Bateh</copyright>
+    <lastBuildDate>Tue, 17 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/business/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Mousa Automation Principle V1</title>
+      <link>http://localhost:1313/posts/tech/mousa-automation-principle-v1/</link>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <author>blog.segment682@passfwd.com (Mousa Al Bateh)</author>
+      <guid>http://localhost:1313/posts/tech/mousa-automation-principle-v1/</guid>
+      <description>Determining whether a task should be delegated to AI, automated or left for humans can be tough. This is why I created Mousa Automation Principle V1 that helps decision makers decide what path to use.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/tech/mousa-automation-principle-v1/featured.webp" />
+    </item>
+    
+  </channel>
+</rss>

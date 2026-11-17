@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Decentralization on Mousa Al Bateh - Blog</title>
+    <link>http://localhost:1313/tags/decentralization/</link>
+    <description>Recent content in Decentralization on Mousa Al Bateh - Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>blog.segment682@passfwd.com (Mousa Al Bateh)</managingEditor>
+    <webMaster>blog.segment682@passfwd.com (Mousa Al Bateh)</webMaster>
+    <copyright>© 2026 Mousa Al Bateh</copyright>
+    <lastBuildDate>Mon, 16 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/decentralization/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Why We Need to Reduce Our Dependency on Centralized Social Media Platforms</title>
+      <link>http://localhost:1313/posts/tech/centralized-social-media/</link>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <author>blog.segment682@passfwd.com (Mousa Al Bateh)</author>
+      <guid>http://localhost:1313/posts/tech/centralized-social-media/</guid>
+      <description>Why our reliance on centralized social media platforms is concerning and what needs to change.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/tech/centralized-social-media/featured.webp" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,6 +1,6 @@
 [[main]]
 name = "News"
-pre= "news"
+pre = "news"
 pageRef = "categories/news"
 identifier = "1VuJVUAkdO"
 weight = 1
@@ -9,21 +9,35 @@ weight = 1
 name = "Posts"
 pageRef = "posts"
 identifier = "af7GCWmM8c"
-weight = 2
+weight = 4
 
 [[main]]
 name = "About Me"
 pre = "about"
 pageRef = "about"
 identifier = "sH5EzEllZn"
-weight = 3
+weight = 5
 
 [[main]]
 name = "Contact"
 pre = "email"
 pageRef = "contact"
 identifier = "6OX2xTxiDi"
-weight = 4
+weight = 6
+
+[[main]]
+name = "tech"
+pre = "dev"
+pageRef = "categories/tech"
+identifier = "xGOGOF0cqE"
+weight = 2
+
+[[main]]
+name = "advocacy"
+pre = "globe"
+pageRef = "categories/advocacy"
+identifier = "4T0hFnPUb3"
+weight = 3
 
 [[footer]]
 none = "none"
