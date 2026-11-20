@@ -40,4 +40,8 @@ identifier = "4T0hFnPUb3"
 weight = 3
 
 [[footer]]
-none = "none"
+name = "Copyright and Prohibited Uses"
+pageRef = "copyright"
+identifier = "FGRKo7Twfq"
+pre = "copyright"
+weight = 9_999
