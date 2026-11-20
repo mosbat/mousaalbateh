@@ -32,12 +32,19 @@ pageRef = "categories/tech"
 identifier = "xGOGOF0cqE"
 weight = 2
 
-[[main]]
-name = "advocacy"
-pre = "globe"
-pageRef = "categories/advocacy"
-identifier = "4T0hFnPUb3"
-weight = 3
+# [[main]]
+# name = "advocacy"
+# pre = "globe"
+# pageRef = "categories/advocacy"
+# identifier = "4T0hFnPUb3"
+# weight = 3
+
+# [[main]]
+# name = "Vlogs"
+# pre = "video"
+# pageRef = "categories/vlogs"
+# identifier = "1g1fS8v7WE"
+# weight = 9_999
 
 [[footer]]
 name = "Copyright and Prohibited Uses"
